@@ -1,1 +1,2 @@
-# mmc6278-2-2-buteau-nayllah
+# Module 2 Assignment: Create a Command Line Application
+For this assignment, you will create a command line application using the NodeJS and the commander npm package that prints random inspirational quotes to the console.
